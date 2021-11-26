@@ -1,0 +1,9 @@
+{
+  "realm": "Expose_Reseau",
+  "auth-server-url": "http://localhost:8180/auth/",
+  "ssl-required": "external",
+  "clientId":"valdes2",
+  "resource": "valdes2",
+  "public-client": true,
+  "confidential-port": 0
+}
